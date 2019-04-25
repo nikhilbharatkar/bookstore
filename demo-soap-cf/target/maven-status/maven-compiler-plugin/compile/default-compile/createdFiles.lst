@@ -1,0 +1,10 @@
+com/bookstore/demosoapcf/DemoSoapCfApplication.class
+com/bookstore/demosoapcf/endpoint/BooksEndPoint.class
+com/bookstore/demosoapcf/service/BookServiceImpl.class
+com/bookstore/soap_cf_demo/GetBookRequest.class
+com/bookstore/soap_cf_demo/Book.class
+com/bookstore/demosoapcf/service/BookService.class
+com/bookstore/soap_cf_demo/GetBookResponse.class
+com/bookstore/soap_cf_demo/ObjectFactory.class
+com/bookstore/soap_cf_demo/package-info.class
+com/bookstore/demosoapcf/config/SoapWebServiceConfig.class
